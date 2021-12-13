@@ -8,7 +8,7 @@
 여기서는 간단하게 하루분량의 뉴스기사(1만2천개)의 제목을 가지고 각 카테고리별로 클러스터링 하는 예제를 보여준다.
 한국언론진흥재단에서 구축한 방대한 뉴스기사 코퍼스로 학습한 kpfBERT를 이용하여 특히 뉴스기사에 특화된 모델이다.
 
-- 본 예제에 사용된 kpf-SBERT는 [kpfSBERT](https://github.com/KPFBERT/kpfbert)에 제작방법이 공개되어 있다.
+- 본 예제에 사용된 kpf-SBERT는 [kpfSBERT](https://github.com/KPFBERT/kpfSBERT)에 제작방법이 공개되어 있다.
 
 - 뉴스 데이터 셈플은 한국언론진흥재단에서 제공하는 서비스인 [뉴스트러스트](http://newstrust.kr/)에서 가공하여 사용하였다.
 
